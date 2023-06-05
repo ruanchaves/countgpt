@@ -1,0 +1,911 @@
+1. How many windows are visible on the side of the bus? 10
+2. How many push pins are there? 3
+3. How many remotes are there? 0
+4. How many signs are in the picture? 9
+5. How many lights? 3
+6. How many people can be seen? 1
+7. How many horses? 3
+8. How many letters are on the keyboard? 11
+9. How many rooms are shown? 2
+10. How many lights above the bike? 2
+11. How many people are in the photograph? 1
+12. How many players are on the green team? 1
+13. How many cars are there? 3
+14. How many tall trees are there? 3
+15. How many elephants are on the picture? 1
+16. How many tracks are trainless? 2
+17. How many plants have leaves? 1
+18. How many trains have a yellow front? 2
+19. How many wheels are in this picture? 5
+20. How many zebras are there? 3
+21. How many pieces of bread are shown? 1
+22. How many slices are missing from the pizza? 2
+23. How many utensils are in this picture? 3
+24. How many birds are there? 12
+25. How many cows are there? 9
+26. How many colors of paint is on the bus? 3
+27. How many glass panels are there? 10
+28. How many bananas can be seen? 1
+29. How many geese are there? 12
+30. How many white plates are on the table? 1
+31. How many people on the court? 2
+32. How many rolls of paper are there? 11
+33. How many people are on the track? 5
+34. How many chairs are stacked in the corner? 2
+35. How many vehicles can be seen in the picture? 4
+36. How many people are visible directly on the tennis court? 8
+37. How many trains are visible? 8
+38. How many people are there? 1
+39. How many chairs are there? 5
+40. How many creamers in the bowl? 12
+41. How many plates on the table? 12
+42. How many different kinds of animals are in this photo? 2
+43. How many elephants are in the photo? 1
+44. How many tomatoes are pictured? 5
+45. How many people are shown? 2
+46. How many pizzas are in the photo? 4
+47. How many arrows? 1
+48. How many elephants? 1
+49. How many statues are in the picture? 2
+50. How many animals can be seen? 12
+51. How many signs are in the image? 6
+52. How many giraffes are in the picture? 4
+53. How many animals are shown? 1
+54. How many flowers are painted? 2
+55. How many signs are pictured? 3
+56. How many bears are there? 4
+57. How many apples are present? 3
+58. How many lego trains are shown? 4
+59. How many claws does the bird have? 4
+60. How many tails does the kite have? 4
+61. How many satellites are there? 4
+62. How many windows can be seen? 8
+63. How many of the birds wings are extended in total? 3
+64. How many motorcycles are in the picture? 2
+65. How many bananas are there? 4
+66. How many seats are shown? 1
+67. How many motorcycles are there? 2
+68. How many teeth does the mask have left? 12
+69. How many people are in the picture? 5
+70. How many buses are there? 0
+71. How many of the tan umbrellas are opened up? 10
+72. How many shelves on the cart? 2
+73. How many stickers are on the luggage? 5
+74. How many trains are shown? 2
+75. How many traffic lights are in the photo? 8
+76. How many trees are in the background? 9
+77. How many hats are being worn? 4
+78. How many fish do you see? 2
+79. How many bears are catching fish? 2
+80. How many pictures are on the wall? 6
+81. How many bikes are in the picture? 1
+82. How many people are in the photo? 5
+83. How many people are in the foreground of the photo? 4
+84. How many traffic lights are green? 2
+85. How many signs are there? 1
+86. How many tiers is the shelf in the shower? 2
+87. How many animals are in the photo? 1
+88. How many utensils are on the table? 6
+89. How many emergency vehicles are there? 9
+90. How many skiers are there? 2
+91. How many people are pictured? 4
+92. How many cakes are shown? 6
+93. How many buses are shown? 2
+94. How many urinals are there? 12
+95. How many red motorcycles are featured? 3
+96. How many bottles are on the windowsill? 4
+97. How many spoons? 1
+98. How many toothbrushes are there? 3
+99. How many tab signs are there? 8
+100. How many red signs are there? 2
+101. How many blue signs are shown? 4
+102. How many round signs are shown? 3
+103. How many women are there? 1
+104. How many people are handling the horses? 3
+105. How many people are wearing yellow shirts? 2
+106. How many birds are in the picture? 2
+107. How many pairs of shoes are visible? 4
+108. How many boots are in the photo? 3
+109. How many vans can be seen? 1
+110. How many primary colors are pictured? 6
+111. How many wheels are visible? 2
+112. How many fish are visible? 1
+113. How many pink bands are on the man's wrist? 2
+114. How many green duffle bags are on the ground? 3
+115. How many cars are on the street? 1
+116. How many pictures are hanging on the wall? 1
+117. How many refrigerators are in the picture? 2
+118. How many boys are there? 7
+119. How many surfers are there? 3
+120. How many knives are on the table? 4
+121. How many women are posing for the photo? 4
+122. How many black cows are there? 9
+123. How many baseballs are there? 9
+124. How many planes are in this photo? 6
+125. How many wheels are visible on the plane? 6
+126. How many actively playing tennis players are visible? 2
+127. How many flower pots are there? 4
+128. How many trains are in this picture? 3
+129. How many horses are in the photo? 2
+130. How many people are in the shot? 2
+131. How many squares are on the window? 10
+132. How many men? 8
+133. How many cones? 2
+134. How many cars are pictured? 2
+135. How many big bolts are seen on the hydrant? 6
+136. How many pans? 7
+137. How many pictures are hanging above the TV? 1
+138. How many shoes are in this picture? 4
+139. How many horses are there? 1
+140. How many people are wearing a yellow dress? 2
+141. How many planes are there? 0
+142. How many lamps are on? 2
+143. How many images do you see? 5
+144. How many hands are there? 1
+145. How many roman numerals are there? 5
+146. How many zebras? 8
+147. How many license plates are visible in the picture? 2
+148. How many white trucks are there? 0
+149. How many trucks are in the picture? 2
+150. How many fruits? 4
+151. How many pizzas? 2
+152. How many animals are there? 1
+153. How many bundles of fruit are hanging? 7
+154. How many players are on the field? 2
+155. How many lamps are in the room? 1
+156. How many red lights are illuminated on the back of the train? 1
+157. How many train tracks are in the picture? 1
+158. How many players in photo? 3
+159. How many giraffe? 3
+160. How many cars are in the photo? 3
+161. How many magnets are on the bottom of the fridge? 2
+162. How many dogs? 2
+163. How many yellow trucks? 2
+164. How many people are in this picture? 2
+165. How many giraffes are in the scene? 5
+166. How many sinks are there? 2
+167. How many are sliced? 2
+168. How many fridges are in the photo? 1
+169. How many cars do you see? 2
+170. How many red leaves painted on the side of the plane? 2
+171. How many surfboards are in the photo? 5
+172. How many birds in picture? 8
+173. How many animals are in this picture? 2
+174. How many red lines are on the toothbrush? 4
+175. How many clocks are on the tower? 2
+176. How many dogs are in the tower? 1
+177. How many pots are in the picture? 2
+178. How many people? 3
+179. How many giraffes are there? 4
+180. How many signfronts point to the left? 4
+181. How many streetlights are there? 3
+182. How many stove burner are there? 3
+183. How many red lights are on the front? 3
+184. How many window do you see? 2
+185. How many cats are in the picture? 2
+186. How many benches are there? 1
+187. How many men are on the tennis field? 4
+188. How many lights are on the sides of the bed? 1
+189. How many red pillows are there? 2
+190. How many shelves are shown? 4
+191. How many carrots? 1
+192. How many horse? 1
+193. How many ounces? 16
+194. How many milkshakes? 1
+195. How many trucks are visible? 4
+196. How many wheels are on the ground? 1
+197. How many ford logos can be seen? 3
+198. How many rings are the individuals hands? 1
+199. How many women are in the photo? 5
+200. How many women is using black tie? 1
+201. How many streetlights are in the picture? 1
+202. How many legs of the zebra do you see? 1
+203. How many boats are there? 5
+204. How many people do you see? 4
+205. How many sandwiches are there? 4
+206. How many elephants are in the ring? 4
+207. How many trains are on the track? 2
+208. How many colors are painted on the train? 1
+209. How many train tracks are there? 1
+210. How many clock are there? 2
+211. How many players in the photo? 2
+212. How many trucks can be seen? 2
+213. How many horse faces can be seen? 2
+214. How many lamp post? 4
+215. How many plates are visible? 0
+216. How many balls? 3
+217. How many mirrors are there? 1
+218. How many bears are in the photo? 1
+219. How many park benches are shown? 6
+220. How many tusks are in the photo? 2
+221. How many elephants are in the picture? 2
+222. How many horses are pictured? 2
+223. How many people are there in this room? 4
+224. How many of the player's feet are off the ground? 1
+225. How many chimneys can be seen in the photo? 12
+226. How many cars are in the lot? 2
+227. How many black cars are black? 20
+228. How many people are playing? 1
+229. How many trucks are pictured? 0
+230. How many windows? 3
+231. How many balconies are there? 12
+232. How many elephant ears do you see? 12
+233. How many ways to heat food are shown? 4
+234. How many yellow umbrellas are there? 4
+235. How many children are there? 3
+236. How many rolls of toilet paper are there? 3
+237. How many engines does the plane have? 4
+238. How many computers are there? 3
+239. How many eyes does the cat have? 1
+240. How many in the compound? 4
+241. How many beds are there? 3
+242. How many dogs are in the water? 4
+243. How many umbrellas does the woman have? 6
+244. How many cats are pictured? 5
+245. How many aprons? 1
+246. How many trees are there? 1
+247. How many slices of sandwich are there? 1
+248. How many of the sandwiches are open faced? 4
+249. How many sandwiches are on white bread? 1
+250. How many sheep are there? 9
+251. How many elephants are there? 1
+252. How many players are seen? 1
+253. How many kites? 6
+254. How many microphones are visible? 1
+255. How many babies are in the photo? 8
+256. How many giraffes are shown? 6
+257. How many coffee cups are on the tray? 9
+258. How many trucks are in this picture? 4
+259. How many bears are in the picture? 4
+260. How many pillows are there? 10
+261. How many people are in the room? 10
+262. How many cakes are there? 4
+263. How many faces do you see? 4
+264. How many surfers are in the water? 6
+265. How many people are in the scene? 4
+266. How many jars are there? 9
+267. How many plants are in the window? 1
+268. How many airplanes are visible? 4
+269. How many train carts do you see? 4
+270. How many cats are there? 5
+271. How many umbrellas are in the picture? 4
+272. How many tables are in this picture? 4
+273. How many total lamps are there? 6
+274. How many lamps are hanging from the ceiling? 1
+275. How many toilets are in the photo? 1
+276. How many zebras can be seen? 1
+277. How many blue cups are shown? 6
+278. How many small cups are shown? 7
+279. How many bikes are at the bottom of the picture? 1
+280. How many blue chairs are visible in the bottom half of the picture? 6
+281. How many tvs are there? 5
+282. How many skater? 5
+283. How many men are seen? 6
+284. How many children? 1
+285. How many eggs are shown? 13
+286. How many eggs are in one carton? 12
+287. How many oranges are shown? 5
+288. How many sinks? 5
+289. How many rails are there? 5
+290. How many people are there in this photo? 1
+291. How many people outside the fence? 0
+292. How many doors are in the scene? 0
+293. How many exit signs are in the room? 11
+294. How many windows are on the second story of the building? 6
+295. How many bars? 8
+296. How many green cars in the photo? 7
+297. How many tables are there? 16
+298. How many people are in photo? 5
+299. How many are they? 5
+300. How many horses are in the pic? 5
+301. How many glasses are visible? 5
+302. How many men are in the water? 6
+303. How many people are walking? 5
+304. How many green trash bags? 9
+305. How many train cars? 12
+306. How many food trucks are pictured? 5
+307. How many dinosaurs are in the picture? 6
+308. How many donuts are in a box? 13
+309. How many solid yellow ties are there? 6
+310. How many ties have stripes only? 6
+311. How many toy bears are visible? 12
+312. How many people are on the chair? 0
+313. How many people eating the vegetables? 12
+314. How many animals do you see? 5
+315. How many skateboards? 5
+316. How many green shirts? 8
+317. How many jagged lines are there? 5
+318. How many machines are there? 9
+319. How many people in the picture? 5
+320. How many wind surfers? 5
+321. How many batters? 0
+322. How many toilet paper rolls? 12
+323. How many cakes? 5
+324. How many legs are shown? 8
+325. How many yellow cars are behind the engine? 11
+326. How many train tracks do you see? 0
+327. How many apples can we clearly see in this photo? 6
+328. How many traffic signs are in the photo? 6
+329. How many pizzas are there? 5
+330. How many containers of dip are shown? 0
+331. How many fingers does the man in front having showing? 5
+332. How many plants are by the fireplace? 6
+333. How many horses are in the picture? 0
+334. How many bikes? 0
+335. How many motorcycles are in the photo? 0
+336. How many trains are there? 5
+337. How many white posts are there? 5
+338. How many ribbons are on the stuffed animal? 5
+339. How many buckets are stacked? 5
+340. How many vehicles can be seen? 5
+341. How many types of vehicles are visible? 5
+342. How many numbers are on the ground? 0
+343. How many water skiers are performing? 5
+344. How many wheels are there? 0
+345. How many people are smiling? 5
+346. How many umbrellas are there? 5
+347. How many eyes of the bird are in the photo? 0
+348. How many stripes are on each shoe? 6
+349. How many cars are depicted? 5
+350. How many train cars are in the photo? 5
+351. How many people are in the image? 6
+352. How many people are visible? 5
+353. How many cows looking at the camera? 5
+354. How many people are in sight? 5
+355. How many bananas are in the bowl? 5
+356. How many legs does the sheep have? 5
+357. How many players? 5
+358. How many drinks are there? 6
+359. How many vehicles are in the street? 8
+360. How many people are on the sidewalk? 9
+361. How many airplanes are there? 5
+362. How many windows can you see on the front of the highest airplane? 5
+363. How many wine bottles are on the rack? 6
+364. How many plates? 5
+365. How many elephant? 8
+366. How many legs are in the photo? 8
+367. How many boys are shown? 9
+368. How many towels are there? 6
+369. How many Cows can you see for sure? 7
+370. How many kites do you see? 7
+371. How many photos of bears are in the photo? 6
+372. How many cars on the train? 6
+373. How many people are in this photo? 6
+374. How many different fruits do you see in picture? 6
+375. How many zebras are in the photo? 0
+376. How many kites are shown? 6
+377. How many kids are pictured? 7
+378. How many planes are in the picture? 7
+379. How many people are there in the picture? 7
+380. How many flowers are on the plate? 10
+381. How many lights are there? 7
+382. How many zebra? 0
+383. How many bikes are in the light? 7
+384. How many people are at the table? 8
+385. How many boards in the scene? 6
+386. How many sandwich? 6
+387. How many wheels does the vehicle have? 8
+388. How many vehicles are there? 6
+389. How many fingers are shown? 7
+390. How many pizza slices are there? 7
+391. How many red boots are pictured? 6
+392. How many skateboards are in the image? 6
+393. How many different types of food are shown? 6
+394. How many train cars are there? 9
+395. How many people are on the field? 6
+396. How many red ski poles are there? 6
+397. How many blue tubs are there? 6
+398. How many bikes are there? 12
+399. How many animals are in the pic? 8
+400. How many bushes are there? 7
+401. How many orange cone are there? 8
+402. How many slats in the bench? 7
+403. How many bats is the kid holding? 6
+404. How many legs are on the bench? 6
+405. How many electronics are there? 6
+406. How many slalom poles are there? 6
+407. How many tusk are on the elephant? 0
+408. How many bowls of fries are there? 9
+409. How many people are in front of the camera? 6
+410. How many pieces of bacon? 6
+411. How many children are on the sidewalk? 6
+412. How many glasses are on the table? 7
+413. How many animals are visible in the picture? 0
+414. How many legs does this animal have? 6
+415. How many ears does this animal have? 6
+416. How many windows are in the closest car? 8
+417. How many girls can be seen in the background? 6
+418. How many boats do you see? 6
+419. How many black cows are in the photo? 12
+420. How many lights are orange? 7
+421. How many apples are there? 10
+422. How many propellers does the plane have? 6
+423. How many cars make up the train? 6
+424. How many women are visible? 9
+425. How many people riding the horses? 0
+426. How many ears are visible? 6
+427. How many eggs? 8
+428. How many shadows are in the pic? 6
+429. How many giraffe are shown? 6
+430. How many shoes are there? 6
+431. How many letters are in the word on the lower sign? 10
+432. How many flags can be seen? 9
+433. How many pillows are on the bed? 6
+434. How many tires can be seen on the car? 7
+435. How many shoes are visible? 7
+436. How many trucks? 6
+437. How many pictures are seen on the computer monitor? 7
+438. How many wheels of the board do you see? 9
+439. How many shoes do you see? 6
+440. How many people are depicted? 6
+441. How many buildings are there? 8
+442. How many cars are in the picture? 8
+443. How many blue signs? 7
+444. How many barriers? 7
+445. How many cars are on the train? 8
+446. How many laptops are there? 7
+447. How many humans in the picture? 6
+448. How many blue dividers are there? 9
+449. How many parking spaces are pictured? 6
+450. How many parking meters are in the picture? 8
+451. How many yellow signs are there? 0
+452. How many street signs are there? 0
+453. How many black olives are shown? 0
+454. How many visible drawer handles? 6
+455. How many elephant tusks are visible in this picture? 0
+456. How many birds are in the photo? 9
+457. How many women are on the surfboard? 8
+458. How many pieces are there? 8
+459. How many white flowers are there? 12
+460. How many giraffes are pictured? 0
+461. How many banana slices are on the righthand muffin? 7
+462. How many skis are in this picture? 8
+463. How many people are sitting at the table? 0
+464. How many chairs are in the image? 7
+465. How many windows are visible on the yellow house? 7
+466. How many cars are fully visible? 0
+467. How many boys are in the photo? 9
+468. How many poles does he have? 0
+469. How many sandwich halves are there? 0
+470. How many dogs are in the photo? 0
+471. How many apples is the lady holding in her right hand? 0
+472. How many rugs are on the ground? 0
+473. How many children are pictured? 7
+474. How many sinks are in the bathroom? 8
+475. How many empty bowls are visible? 7
+476. How many umbrellas are green? 7
+477. How many passengers do you see? 7
+478. How many wheels are under the plane? 0
+479. How many vases are on the table? 8
+480. How many bottles do you see? 8
+481. How many glasses have liquid in them? 8
+482. How many parachutes are in the sky? 8
+483. How many birds are shown? 0
+484. How many stripes on the cross walk? 7
+485. How many levels do the buildings have? 12
+486. How many planes are in the sky? 0
+487. How many bananas are hangng? 8
+488. How many green bunches of bananas do you see? 12
+489. How many men are there? 7
+490. How many animals are on the sand? 12
+491. How many people are here? 0
+492. How many lamps are there? 0
+493. How many green vegetables are on the table? 9
+494. How many candles are there? 18
+495. How many people are shown in this image? 0
+496. How many motorcycles are being driven in the road? 12
+497. How many silver candelabras are there? 7
+498. How many chairs are at the table? 8
+499. How many emblems are on the floor? 0
+500. How many soaring birds is there? 8
+501. How many elephants are visible? 8
+502. How many juvenile elephants are in the picture? 7
+503. How many olives are visible? 7
+504. How many tables are below the window? 8
+505. How many lights are on? 8
+506. How many chimneys does the rooftop hold? 9
+507. How many upstairs windows are in the front? 8
+508. How many lights are in tis picture? 20
+509. How many adults are behind the bench? 7
+510. How many trucks are parked in the grass? 7
+511. How many pizzas do you see? 0
+512. How many total windows on the white train? 9
+513. How many white vehicles are noticeable? 10
+514. How many doors are there? 7
+515. How many stars? 11
+516. How many children are shown? 0
+517. How many men are shown? 7
+518. How many buckets are in the picture? 7
+519. How many planes? 7
+520. How many lines are in the chart? 8
+521. How many windows are there? 9
+522. How many donuts have chocolate frosting? 7
+523. How many pink donuts are there? 9
+524. How many birds are pictured? 7
+525. How many plates are shown? 8
+526. How many umbrellas? 10
+527. How many Numbers are on the sign? 8
+528. How many people are wearing glasses? 8
+529. How many pizzas are pictured here? 7
+530. How many stairs? 12
+531. How many sticks are sticking up at the bottom of the stairs? 8
+532. How many hotdogs are there? 7
+533. How many animals are seen? 0
+534. How many posters are there? 12
+535. How many oranges are in the picture? 12
+536. How many musicains in the photo? 12
+537. How many people appear in the photo? 0
+538. How many skaters? 12
+539. How many pickles are there? 12
+540. How many pedestrians are in the street? 0
+541. How many wood chairs are visible? 0
+542. How many laundry baskets are visible? 12
+543. How many lights are visible? 12
+544. How many hot dogs are in this photo? 7
+545. How many gloves? 7
+546. How many feet do you see? 8
+547. How many men are here? 7
+548. How many dogs are visible? 0
+549. How many hands are on the board? 7
+550. How many pots are on the top shelf? 8
+551. How many lights are on the front of the train? 7
+552. How many sets of cabinets are there? 8
+553. How many sets of tracks can you see? 7
+554. How many red cars are there? 0
+555. How many legs do each giraffes have? 8
+556. How many computer screens do you see? 7
+557. How many computers? 8
+558. How many women are standing in front of the group of people? 8
+559. How many separate light fixtures are pictured? 7
+560. How many street signs are pictured? 8
+561. How many surfers are in a yellow shirt? 7
+562. How many cats are shown? 8
+563. How many people are pictured here? 0
+564. How many vases are pictured to the right of the clock? 7
+565. How many tires can be seen? 7
+566. How many pieces of pizza are there? 15
+567. How many olives are on the pizza? 12
+568. How many seeds are in the lime? 12
+569. How many trees can you find in the picture? 7
+570. How many pieces of wood are on the benches? 7
+571. How many buses are in the picture? 12
+572. How many doors are on the bus? 12
+573. How many engines does this plane have? 8
+574. How many bunches of bananas are there? 8
+575. How many people are wearing white sneakers? 8
+576. How many wheels on the skateboard? 12
+577. How many different vegetables? 8
+578. How many remotes are here? 9
+579. How many windows are there on the wall? 8
+580. How many eating utensils are there? 12
+581. How many men do you see? 7
+582. How many girls rowing the boat? 7
+583. How many tables are pictured? 7
+584. How many giraffes? 12
+585. How many blue and white signs are there? 7
+586. How many butterflies are on the plant? 0
+587. How many knee pads does he have on? 0
+588. How many players are pictured? 7
+589. How many ski poles can you see? 20
+590. How many cars are shown? 0
+591. How many people are only partially visible at the bottom of the screen? 9
+592. How many black letters are there? 15
+593. How many giraffes are visible? 7
+594. How many donuts are in the boxes? 20
+595. How many statues are on the table? 9
+596. How many people are on top of the hut? 0
+597. How many sharks are in the hut? 9
+598. How many animals are there in the picture? 7
+599. How many men are in the photo? 10
+600. How many people are skateboarding? 0
+601. How many light bulbs are seen? 9
+602. How many scissors? 0
+603. How many bikes are visible? 9
+604. How many chairs are visible? 7
+605. How many colors are there? 7
+606. How many clocks? 7
+607. How many lights are on the lamp post? 7
+608. How many cars are on the baseball field? 0
+609. How many bowls are there? 0
+610. How many airplanes are in the photo? 0
+611. How many men are in the background? 7
+612. How many teeth are visible on the comb? 15
+613. How many Oranges are there? 12
+614. How many elephants are shown? 0
+615. How many people are sitting at the front table? 0
+616. How many people of the four in the front have a mustache? 0
+617. How many zebras are shown? 7
+618. How many cars can be seen? 12
+619. How many panels are in the umbrella? 12
+620. How many forks on the table? 12
+621. How many ketchup bottles at the table? 12
+622. How many glasses? 9
+623. How many people are under the umbrella together? 12
+624. How many tires do you see? 12
+625. How many people are in the plane? 0
+626. How many people appear in this photo? 0
+627. How many people are wearing orange? 0
+628. How many hands are pictured? 10
+629. How many dots between the numbers? 9
+630. How many animals are in the shot? 0
+631. How many clouds are there? 0
+632. How many dogs are there? 0
+633. How many balls are in the picture? 7
+634. How many people are watching the rider? 10
+635. How many white lights are on the ceiling? 9
+636. How many children are in the photo? 10
+637. How many pink fans are there? 9
+638. How many boxes is the man posing with? 9
+639. How many wood boards are pictured? 9
+640. How many elephants do not have a head dressing? 0
+641. How many bike are pictured? 0
+642. How many people sitting? 0
+643. How many people are in the water? 0
+644. How many giraffes are in photo? 9
+645. How many whole carrots are on the board? 0
+646. How many pink umbrellas are there? 9
+647. How many vehicles? 14
+648. How many kites are in the air? 9
+649. How many dogs are in the picture? 0
+650. How many roman numerals are on the clock? 10
+651. How many birds in the sky? 0
+652. How many shoes are shown? 12
+653. How many pieces of art are hanging on the walls? 12
+654. How many bridges are visible? 12
+655. How many woman are in the photo? 0
+656. How many yellow poles are on the beach? 9
+657. How many traffic lights are seen? 9
+658. How many men are in the picture? 9
+659. How many clocks are there? 14
+660. How many donuts are shown? 9
+661. How many elephants are pictured? 0
+662. How many people are seen? 0
+663. How many utensils are in the bowl closest to the camera? 0
+664. How many labels are on the couch? 12
+665. How many clocks can be seen? 9
+666. How many trees do you see? 9
+667. How many people are visible in this photo? 9
+668. How many plane? 9
+669. How many buses are visible in the picture? 12
+670. How many people are visible in the foreground of the photo? 12
+671. How many humans are visible? 12
+672. How many wristbands is the man wearing? 12
+673. How many people are wearing pink? 12
+674. How many stop lights? 9
+675. How many buildings have windows? 9
+676. How many chairs are around the larger table? 9
+677. How many bowl? 12
+678. How many fence posts are visible? 9
+679. How many people are the in this picture? 9
+680. How many rolls of toilet paper are seen? 12
+681. How many bottles are there? 12
+682. How many signs are in the photograph? 9
+683. How many white columns are there? 9
+684. How many window panes are shown? 10
+685. How many windows can be seen on the church? 9
+686. How many zebra are there? 12
+687. How many slices of pizza are there? 10
+688. How many surfers are in the image? 9
+689. How many lights are on the train? 9
+690. How many zebras are in the picture? 12
+691. How many hearts? 9
+692. How many catchers are there? 12
+693. How many trees? 9
+694. How many vases are shown? 12
+695. How many tusks does the elephant have? 12
+696. How many trains in picture? 9
+697. How many sections make up the doors and border of doors? 10
+698. How many flower vases are in this photo? 12
+699. How many trucks are there? 9
+700. How many forks are in this picture? 10
+701. How many plates are there? 9
+702. How many tongs are there? 9
+703. How many donuts are there? 10
+704. How many things are on his wrists? 9
+705. How many kids are in the pic? 10
+706. How many fingers do you see? 9
+707. How many pieces of luggage can be seen? 9
+708. How many men are at the table? 9
+709. How many flags are shown? 13
+710. How many windows are on the longer place? 17
+711. How many blue doors are there? 9
+712. How many small stripe marks are on the surfboard? 16
+713. How many players are shown? 20
+714. How many power cables are visible? 9
+715. How many windows are visible on the building next to the house? 15
+716. How many kites are flying? 9
+717. How many green lights? 11
+718. How many candles? 16
+719. How many buttons are on the phone? 10
+720. How many glasses are there? 12
+721. How many plates are in the stack? 12
+722. How many buildings are there in the background? 9
+723. How many windows are in the building? 10
+724. How many people are in the background? 12
+725. How many people are waiting for the train? 10
+726. How many numbers are on the clock? 12
+727. How many doughnuts are visible? 12
+728. How many people are on the platform? 12
+729. How many giraffe are there? 12
+730. How many people are skiing? 10
+731. How many kites are in the sky? 10
+732. How many cows? 12
+733. How many zebras are pictured? 11
+734. How many zebra are shown? 12
+735. How many trees are in the picture? 12
+736. How many pieces of bread are on the plate? 12
+737. How many green bananas are there? 15
+738. How many tennis balls can be seen? 12
+739. How many doors are shown? 12
+740. How many of the zebras are adult? 12
+741. How many arrows are in the picture? 12
+742. How many animals are drinking water? 12
+743. How many animals are standing in the water? 12
+744. How many rolls are there? 12
+745. How many table are there? 12
+746. How many ducks are seen? 10
+747. How many people pictured? 16
+748. How many men on the field? 12
+749. How many parking meters are pictured? 12
+750. How many legs can you see? 14
+751. How many candies are there? 16
+752. How many have the color green? 14
+753. How many Roman numerals are on the object? 12
+754. How many eyes? 12
+755. How many wheels are visible in the picture? 12
+756. How many cops are there? 10
+757. How many bunches are there? 12
+758. How many carrots are there? 10
+759. How many teeth can you see on the child? 10
+760. How many lights are on front? 12
+761. How many boxes do they have? 12
+762. How many fingers are showing on the person's right hand? 12
+763. How many windows on the building? 20
+764. How many ambulances are in the photo? 10
+765. How many headlights are there? 12
+766. How many sheep are pictured around the hay? 13
+767. How many skaters are pictured? 12
+768. How many teddy bears are there? 12
+769. How many wood slates are in the backrest horizontally? 12
+770. How many leaves are there? 12
+771. How many pieces of bread are there? 12
+772. How many cats are visible? 12
+773. How many flowers are in the vase? 12
+774. How many donuts are on the plate? 12
+775. How many black sheep are shown? 12
+776. How many animals appear in this picture? 12
+777. How many tracks are there? 12
+778. How many archways do you see? 18
+779. How many raspberries are pictured? 10
+780. How many people are shown in the back of the truck? 12
+781. How many men are playing? 12
+782. How many computers are in the photo? 10
+783. How many white building are there? 12
+784. How many roads are visible? 12
+785. How many keyboards are visible? 12
+786. How many people are bending over? 10
+787. How many sky lights are shown? 12
+788. How many appliances are shown? 10
+789. How many balls are in the bowl? 10
+790. How many people in the photo are on motorbikes? 12
+791. How many slices of fruit are around the grapefruit? 10
+792. How many vases are pictured? 15
+793. How many donuts are visible? 20
+794. How many utensils in the food tray? 10
+795. How many people are on the train? 10
+796. How many bowls are on the table? 10
+797. How many peppers are pictured? 12
+798. How many white cars are there? 12
+799. How many tail lights do you see? 12
+800. How many cameras are present? 12
+801. How many cups are there? 12
+802. How many airplanes are visible in the picture? 12
+803. How many traffic lights are there? 12
+804. How many signs have words? 12
+805. How many motorcycles are seen clearly in the picture? 10
+806. How many green lights are pictured? 12
+807. How many people are clearly visible? 13
+808. How many bottles of water do you see? 13
+809. How many toppings are on the hot dog? 13
+810. How many doors the car have? 13
+811. How many orange halves are pictured? 13
+812. How many men are pictured? 13
+813. How many signs on the pole face the camera? 13
+814. How many large melons are visible? 13
+815. How many flags are there? 13
+816. How many towers are there? 13
+817. How many pieces of pizza are on the grill? 13
+818. How many food items are on the grill? 13
+819. How many couches are in the picture? 19
+820. How many pepperonis are there? 10
+821. How many bananas slices are visible? 10
+822. How many little boys are sitting? 13
+823. How many teeth are visible? 13
+824. How many bikes can be seen? 13
+825. How many stop signs are there? 13
+826. How many bikes are in this picture? 13
+827. How many red flags are there? 13
+828. How many animals are on the cake? 13
+829. How many racquets are visible? 13
+830. How many unbaked doughnuts are there? 10
+831. How many outlets are there? 13
+832. How many green signs are in the fruit display? 13
+833. How many pictures? 13
+834. How many tins are shown? 13
+835. How many rafts are shown? 13
+836. How many eyes does this man have? 13
+837. How many pumpkins do you see? 10
+838. How many petals does the flower have? 10
+839. How many framed pictures? 10
+840. How many heating eyes are on the store? 13
+841. How many drawers are immediately to the left of the store? 13
+842. How many numbers are shown on the clock? 10
+843. How many carrots are on the plate? 10
+844. How many buildings can you see? 13
+845. How many Frisbees is the baby holding? 13
+846. How many red velvet cupcakes? 10
+847. How many stuffed bunnies are there? 19
+848. How many players are in the picture? 11
+849. How many buttons are on the remote? 10
+850. How many donuts are seen? 10
+851. How many green peppers are visible in the box to the left? 14
+852. How many soda cans are shown? 10
+853. How many wheels are there on the skateboard? 10
+854. How many pieces of pizza are there to serve? 20
+855. How many people are in the boat? 10
+856. How many spokes surround the clock? 11
+857. How many letters and numbers are on the street sign? 19
+858. How many drawers are in the metal stand under the clock? 11
+859. How many fruits are there? 20
+860. How many people are in the game? 10
+861. How many items are on the menu? 10
+862. How many photos were taken? 15
+863. How many clouds are in the sky? 20
+864. How many bikers are in this photo? 10
+865. How many vehicles are in the picture? 15
+866. How many surf boards? 10
+867. How many vases can be seen? 10
+868. How many bananas are on the first bunch? 10
+869. How many people are holding the board? 10
+870. How many pens and pencils are there? 10
+871. How many lights does the traffic light have? 11
+872. How many drawings are there? 10
+873. How many locks are hanging from the gate? 10
+874. How many people are on the beach? 10
+875. How many wind turbines can be seen? 10
+876. How many have blue shirts on? 10
+877. How many clocks are shown? 10
+878. How many music notes are on the wall? 10
+879. How many people are in this room? 10
+880. How many hot dogs are there? 10
+881. How many slices are shown? 10
+882. How many pieces of pizza are on the table? 10
+883. How many kids are seen? 10
+884. How many signs are on the pole? 16
+885. How many flowers are there? 10
+886. How many hearts are in the picture? 14
+887. How many people are walking to the right? 10
+888. How many boats are in the pic? 10
+889. How many men are leaning on the fence? 10
+890. How many boats are shown? 15
+891. How many cookies are on the rack? 11
+892. How many seeds are in this picture? 14
+893. How many cakes in the photo? 14
+894. How many stories are there? 10
+895. How many color flowers are there? 10
+896. How many blue cups are in the dishwasher? 10
+897. How many bars are on the railing? 10
+898. How many solar panels are on the roof? 15
+899. How many different kinds of vegetables are pictured? 15
+900. How many parking meters? 10
+901. How many benches are in the picture? 19
+902. How many males are there? 15
+903. How many flowers are pictured? 14
+904. How many windows can be seen on the two buildings? 16
+905. How many flowers do you see? 10
+906. How many bears? 10
+907. How many cups are on the table? 20
+908. How many kites are there? 20
+909. How many people are around? 15
+910. How many buildings have a green roof? 10
+911. How many orange objects have white stripes? 16
