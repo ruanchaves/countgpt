@@ -1,0 +1,3 @@
+Turn the numbered list of question answer pairs below into a numbered list of declarative sentences.  
+Each sentence in your output must begin either with "There is" or with "There are".
+

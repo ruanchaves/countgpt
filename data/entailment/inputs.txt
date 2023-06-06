@@ -1,0 +1,1000 @@
+1. There are 10 windows visible on the side of the bus.
+2. There are 11 windows visible on the side of the bus.
+3. There are 3 push pins.
+4. There are 4 push pins.
+5. There are 5 push pins.
+6. There are 6 push pins.
+7. There are no remotes.
+8. There are 2 remotes.
+9. There are 3 remotes.
+10. There is 1 remote.
+11. There are 9 signs in the picture.
+12. There are 6 signs in the picture.
+13. There is 1 sign in the picture.
+14. There are 2 signs in the picture.
+15. There are 3 lights.
+16. There are 4 lights.
+17. There are 5 lights.
+18. There are 2 lights.
+19. There is 1 person that can be seen.
+20. There are 5 people that can be seen.
+21. There are 4 people that can be seen.
+22. There are 9 people that can be seen.
+23. There are 3 horses.
+24. There are 2 horses.
+25. There is 1 horse.
+26. There are 4 horses.
+27. There are 11 letters on the keyboard.
+28. There are 2 rooms shown.
+29. There are 3 rooms shown.
+30. There are 4 rooms shown.
+31. There is 1 room shown.
+32. There are 2 lights above the bike.
+33. There are 3 lights above the bike.
+34. There are 4 lights above the bike.
+35. There is 1 light above the bike.
+36. There is 1 person in the photograph.
+37. There are 6 people in the photograph.
+38. There are 3 people in the photograph.
+39. There are 2 people in the photograph.
+40. There is 1 person in the photograph.
+41. There are 2 people in the photograph.
+42. There are 5 people in the photograph.
+43. There are 4 people in the photograph.
+44. There is 1 player on the green team.
+45. There are 2 players on the green team.
+46. There are 5 players on the green team.
+47. There are 3 players on the green team.
+48. There are 3 cars.
+49. There are 4 cars.
+50. There are 5 cars.
+51. There are 2 cars.
+52. There are 3 tall trees.
+53. There are 4 tall trees.
+54. There are 5 tall trees.
+55. There are 2 tall trees.
+56. There is 1 elephant in the picture.
+57. There are 3 elephants in the picture.
+58. There are 4 elephants in the picture.
+59. There are 2 elephants in the picture.
+60. There are 2 trainless tracks.
+61. There are 3 trainless tracks.
+62. There are 4 trainless tracks.
+63. There is 1 trainless track.
+64. There is 1 plant that has leaves.
+65. There are 2 plants that have leaves.
+66. There are 3 plants that have leaves.
+67. There are no plants that have leaves.
+68. There are 2 trains that have a yellow front.
+69. There are 3 trains that have a yellow front.
+70. There are 4 trains that have a yellow front.
+71. There is 1 train that has a yellow front.
+72. There are 5 wheels in this picture.
+73. There are 4 wheels in this picture.
+74. There are 3 wheels in this picture.
+75. There are 6 wheels in this picture.
+76. There are 3 zebras.
+77. There are 4 zebras.
+78. There are 5 zebras.
+79. There are 2 zebras.
+80. There is 1 piece of bread shown.
+81. There are 5 pieces of bread shown.
+82. There are 6 pieces of bread shown.
+83. There are 2 pieces of bread shown.
+84. There are 2 slices missing from the pizza.
+85. There are 3 slices missing from the pizza.
+86. There are 4 slices missing from the pizza.
+87. There is 1 slice missing from the pizza.
+88. There are 3 utensils in this picture.
+89. There are 4 utensils in this picture.
+90. There are 5 utensils in this picture.
+91. There are 2 utensils in this picture.
+92. There are 12 birds.
+93. There are 13 birds.
+94. There are 5 birds.
+95. There are 3 birds.
+96. There are 9 cows.
+97. There are 8 cows.
+98. There are 7 cows.
+99. There are 10 cows.
+100. There are 3 colors of paint on the bus.
+101. There are 2 colors of paint on the bus.
+102. There is 1 color of paint on the bus.
+103. There are 4 colors of paint on the bus.
+104. There are 10 glass panels.
+105. There are 13 glass panels.
+106. There are 5 glass panels.
+107. There are 12 glass panels.
+108. There is 1 banana that can be seen.
+109. There are 6 bananas that can be seen.
+110. There are 9 bananas that can be seen.
+111. There are 2 bananas that can be seen.
+112. There are 12 geese.
+113. There are 13 geese.
+114. There are 5 geese.
+115. There are 18 geese.
+116. There is 1 white plate on the table.
+117. There are 3 white plates on the table.
+118. There are no white plates on the table.
+119. There are 2 white plates on the table.
+120. There are 2 people on the court.
+121. There are 3 people on the court.
+122. There are 4 people on the court.
+123. There is 1 person on the court.
+124. There are 11 rolls of paper.
+125. There are 10 rolls of paper.
+126. There are 9 rolls of paper.
+127. There are 12 rolls of paper.
+128. There are 5 people on the track.
+129. There are 3 people on the track.
+130. There are no people on the track.
+131. There are 2 chairs stacked in the corner.
+132. There are 4 chairs stacked in the corner.
+133. There are 5 chairs stacked in the corner.
+134. There are 3 chairs stacked in the corner.
+135. There are 4 vehicles that can be seen in the picture.
+136. There are 7 vehicles that can be seen in the picture.
+137. There are 9 vehicles that can be seen in the picture.
+138. There are 3 vehicles that can be seen in the picture.
+139. There are 8 people visible directly on the tennis court.
+140. There are 6 people visible directly on the tennis court.
+141. There are 9 people visible directly on the tennis court.
+142. There are 4 people visible directly on the tennis court.
+143. There are 8 trains visible.
+144. There are 7 trains visible.
+145. There are 6 trains visible.
+146. There is 1 train visible.
+147. There is 1 person.
+148. There are 2 people.
+149. There are 3 people.
+150. There are no people.
+151. There are 5 chairs.
+152. There are 4 chairs.
+153. There are 3 chairs.
+154. There are 6 chairs.
+155. There are 12 creamers in the bowl.
+156. There are 13 creamers in the bowl.
+157. There are 5 creamers in the bowl.
+158. There are 8 creamers in the bowl.
+159. There are 12 plates on the table.
+160. There are 13 plates on the table.
+161. There are 5 plates on the table.
+162. There are 3 plates on the table.
+163. There are 2 different kinds of animals in this photo.
+164. There are 3 different kinds of animals in this photo.
+165. There are 4 different kinds of animals in this photo.
+166. There is 1 different kind of animal in this photo.
+167. There is 1 elephant in the photo.
+168. There are 3 elephants in the photo.
+169. There are 4 elephants in the photo.
+170. There are 2 elephants in the photo.
+171. There are 5 tomatoes pictured.
+172. There are 2 tomatoes pictured.
+173. There are 6 tomatoes pictured.
+174. There are 4 tomatoes pictured.
+175. There are 2 people shown.
+176. There are 3 people shown.
+177. There are 4 people shown.
+178. There are no people shown.
+179. There are 4 pizzas in the photo.
+180. There are 2 pizzas in the photo.
+181. There are 3 pizzas in the photo.
+182. There is 1 pizza in the photo.
+183. There is 1 arrow.
+184. There are 3 arrows.
+185. There are 5 arrows.
+186. There are 2 arrows.
+187. There is 1 elephant.
+188. There are 3 elephants.
+189. There are 5 elephants.
+190. There are 2 elephants.
+191. There are 2 statues in the picture.
+192. There are 3 statues in the picture.
+193. There are 4 statues in the picture.
+194. There is 1 statue in the picture.
+195. There are 12 animals that can be seen.
+196. There are 4 animals that can be seen.
+197. There are 5 animals that can be seen.
+198. There are 3 animals that can be seen.
+199. There are 6 signs in the image.
+200. There are 5 signs in the image.
+201. There are 4 signs in the image.
+202. There are 7 signs in the image.
+203. There are 4 giraffes in the picture.
+204. There are 3 giraffes in the picture.
+205. There are 6 giraffes in the picture.
+206. There are 2 giraffes in the picture.
+207. There are 2 people.
+208. There are 3 people.
+209. There are 4 people.
+210. There is 1 person.
+211. There is 1 animal shown.
+212. There are 3 animals shown.
+213. There are 4 animals shown.
+214. There are 2 animals shown.
+215. There are 2 flowers painted.
+216. There is 1 flower painted.
+217. There are 4 flowers painted.
+218. There are 3 flowers painted.
+219. There are 3 signs pictured.
+220. There are no signs pictured.
+221. There is 1 sign pictured.
+222. There are 4 signs pictured.
+223. There are 4 bears.
+224. There are 6 bears.
+225. There are 7 bears.
+226. There are 3 bears.
+227. There are 3 apples present.
+228. There are 4 apples present.
+229. There are 5 apples present.
+230. There are 2 apples present.
+231. There are 4 LEGO trains shown.
+232. There are 3 LEGO trains shown.
+233. There are 2 LEGO trains shown.
+234. There is 1 LEGO train shown.
+235. The bird has 4 claws.
+236. The bird has 3 claws.
+237. The bird has 2 claws.
+238. The bird has 6 claws.
+239. The kite has 4 tails.
+240. The kite has 3 tails.
+241. The kite has 6 tails.
+242. The kite has 2 tails.
+243. There are 4 satellites.
+244. There are 5 satellites.
+245. There is 1 satellite.
+246. There are 2 satellites.
+247. There are 8 windows that can be seen.
+248. There are 3 windows that can be seen.
+249. There are 2 windows that can be seen.
+250. There are 7 windows that can be seen.
+251. There are 3 wings of the bird extended in total.
+252. There is 1 wing of the bird extended in total.
+253. There are 2 wings of the bird extended in total.
+254. There are 4 wings of the bird extended in total.
+255. There are 2 motorcycles in the picture.
+256. There are 4 motorcycles in the picture.
+257. There are 3 motorcycles in the picture.
+258. There is 1 motorcycle in the picture.
+259. There are 4 bananas.
+260. There are 5 bananas.
+261. There are 7 bananas.
+262. There are 2 bananas.
+263. There is 1 seat shown.
+264. There are 2 seats shown.
+265. There are 3 seats shown.
+266. There are 5 seats shown.
+267. There are 2 motorcycles.
+268. There are 3 motorcycles.
+269. There are 4 motorcycles.
+270. There is 1 motorcycle.
+271. The mask has 12 teeth left.
+272. The mask has 16 teeth left.
+273. The mask has 18 teeth left.
+274. The mask has 14 teeth left.
+275. There are 5 people in the picture.
+276. There are 6 people in the picture.
+277. There are 2 people in the picture.
+278. There are 4 people in the picture.
+279. There are no buses.
+280. There are 2 buses.
+281. There are 3 buses.
+282. There is 1 bus.
+283. There are 10 tan umbrellas opened up.
+284. There are 8 tan umbrellas opened up.
+285. There are 9 tan umbrellas opened up.
+286. There are 7 tan umbrellas opened up.
+287. There are 4 people.
+288. There are 2 people.
+289. There are no people.
+290. There is 1 person.
+291. There are 2 shelves on the cart.
+292. There are 4 shelves on the cart.
+293. There are 5 shelves on the cart.
+294. There are 3 shelves on the cart.
+295. There are 5 stickers on the luggage.
+296. There are 2 stickers on the luggage.
+297. There are 3 stickers on the luggage.
+298. There are 6 stickers on the luggage.
+299. There are 6 people.
+300. There are 3 people.
+301. There are 5 people.
+302. There are 4 people.
+303. There are 9 people.
+304. There are 5 people.
+305. There are 4 people.
+306. There are no people.
+307. There are 2 trains shown.
+308. There are 3 trains shown.
+309. There are 4 trains shown.
+310. There is 1 train shown.
+311. There are 8 traffic lights in the photo.
+312. There are 4 traffic lights in the photo.
+313. There are 3 traffic lights in the photo.
+314. There is 1 traffic light in the photo.
+315. There are 9 trees in the background.
+316. There are 5 trees in the background.
+317. There are 7 trees in the background.
+318. There are 10 trees in the background.
+319. There are 4 hats being worn.
+320. There are 3 hats being worn.
+321. There are 2 hats being worn.
+322. There are 5 hats being worn.
+323. There are 4 people in the picture.
+324. There are 5 people in the picture.
+325. There are 8 people in the picture.
+326. There are 3 people in the picture.
+327. There are 2 fish that you see.
+328. There are 5 fish that you see.
+329. There are 3 fish that you see.
+330. There is 1 fish that you see.
+331. There are 2 bears catching fish.
+332. There are 3 bears catching fish.
+333. There are 4 bears catching fish.
+334. There is 1 bear catching fish.
+335. There are 6 pictures on the wall.
+336. There are 7 pictures on the wall.
+337. There are 8 pictures on the wall.
+338. There are 5 pictures on the wall.
+339. There is 1 bike in the picture.
+340. There are 3 bikes in the picture.
+341. There are 4 bikes in the picture.
+342. There are 2 bikes in the picture.
+343. There are 5 people in the photo.
+344. There are 8 people in the photo.
+345. There are 9 people in the photo.
+346. There are 4 people in the photo.
+347. There are 4 people in the foreground of the photo.
+348. There are 5 people in the foreground of the photo.
+349. There is 1 person in the foreground of the photo.
+350. There are 3 people in the foreground of the photo.
+351. There are 2 traffic lights that are green.
+352. There are 3 traffic lights that are green.
+353. There are 4 traffic lights that are green.
+354. There is 1 traffic light that is green.
+355. There are 5 people shown.
+356. There are 6 people shown.
+357. There are 9 people shown.
+358. There are 3 people shown.
+359. There is 1 sign.
+360. There are 4 signs.
+361. There are 5 signs.
+362. There are 2 signs.
+363. The shelf in the shower has 2 tiers.
+364. The shelf in the shower has 1 tier.
+365. The shelf in the shower has 4 tiers.
+366. The shelf in the shower has 3 tiers.
+367. There is 1 animal in the photo.
+368. There are 2 animals in the photo.
+369. There are 3 animals in the photo.
+370. There are no animals in the photo.
+371. There is 1 person shown.
+372. There are 2 people shown.
+373. There are 3 people shown.
+374. There are no people shown.
+375. There are 6 utensils on the table.
+376. There are 5 utensils on the table.
+377. There are 2 utensils on the table.
+378. There is 1 utensil on the table.
+379. There are 9 emergency vehicles.
+380. There are 8 emergency vehicles.
+381. There are 7 emergency vehicles.
+382. There are 2 emergency vehicles.
+383. There are 2 skiers.
+384. There are 3 skiers.
+385. There are 4 skiers.
+386. There is 1 skier.
+387. There are 4 people pictured.
+388. There are 5 people pictured.
+389. There are 6 people pictured.
+390. There are 2 people pictured.
+391. There are 6 cakes shown.
+392. There are 7 cakes shown.
+393. There are 8 cakes shown.
+394. There are 4 cakes shown.
+395. There are 2 buses shown.
+396. There are 14 buses shown.
+397. There are 11 buses shown.
+398. There is 1 bus shown.
+399. There are 12 urinals.
+400. There are 10 urinals.
+401. There are 8 urinals.
+402. There are 13 urinals.
+403. There are 3 red motorcycles featured.
+404. There are 4 red motorcycles featured.
+405. There are 5 red motorcycles featured.
+406. There are 2 red motorcycles featured.
+407. There are 4 bottles on the windowsill.
+408. There are 5 bottles on the windowsill.
+409. There are 6 bottles on the windowsill.
+410. There are 3 bottles on the windowsill.
+411. There is 1 spoon.
+412. There are 3 spoons.
+413. There are 5 spoons.
+414. There are 2 spoons.
+415. There are 3 toothbrushes.
+416. There are 4 toothbrushes.
+417. There are 5 toothbrushes.
+418. There are 2 toothbrushes.
+419. There is 1 animal shown.
+420. There are 2 animals shown.
+421. There are 3 animals shown.
+422. There are 0 animals shown.
+423. There are 8 tab signs.
+424. There are 9 tab signs.
+425. There are 7 tab signs.
+426. There are 5 tab signs.
+427. There are 2 red signs.
+428. There are 3 red signs.
+429. There are 4 red signs.
+430. There is 1 red sign.
+431. There are 4 blue signs shown.
+432. There are 5 blue signs shown.
+433. There are 6 blue signs shown.
+434. There are 3 blue signs shown.
+435. There are 3 round signs shown.
+436. There are 4 round signs shown.
+437. There are 5 round signs shown.
+438. There are 2 round signs shown.
+439. There is 1 woman.
+440. There are 3 women.
+441. There are 2 women.
+442. There are 0 women.
+443. There are 3 people handling the horses.
+444. There are 2 people handling the horses.
+445. There are 0 people handling the horses.
+446. There is 1 person handling the horses.
+447. There are 2 people wearing yellow shirts.
+448. There are 3 people wearing yellow shirts.
+449. There are 4 people wearing yellow shirts.
+450. There is 1 person wearing a yellow shirt.
+451. There are 2 birds in the picture.
+452. There are 3 birds in the picture.
+453. There are 6 birds in the picture.
+454. There is 1 bird in the picture.
+455. There are 4 pairs of shoes visible.
+456. There are 5 pairs of shoes visible.
+457. There are 7 pairs of shoes visible.
+458. There are 2 pairs of shoes visible.
+459. There are 8 skiers.
+460. There are 7 skiers.
+461. There are 6 skiers.
+462. There is 1 skier.
+463. There are 3 boots in the photo.
+464. There are 4 boots in the photo.
+465. There are 5 boots in the photo.
+466. There are 6 boots in the photo.
+467. There is 1 van that can be seen.
+468. There are 3 vans that can be seen.
+469. There are 4 vans that can be seen.
+470. There are 2 vans that can be seen.
+471. There are 6 primary colors pictured.
+472. There are 7 primary colors pictured.
+473. There are 8 primary colors pictured.
+474. There are 2 primary colors pictured.
+475. There are 2 people shown.
+476. There are 3 people shown.
+477. There are 4 people shown.
+478. There is 1 person shown.
+479. There are 2 wheels visible.
+480. There are 4 wheels visible.
+481. There is 1 wheel visible.
+482. There are 3 wheels visible.
+483. There is 1 fish visible.
+484. There are 2 fish visible.
+485. There are 3 fish visible.
+486. There are 0 fish visible.
+487. There are 2 pink bands on the man's wrist.
+488. There are 3 pink bands on the man's wrist.
+489. There are 4 pink bands on the man's wrist.
+490. There is 1 pink band on the man's wrist.
+491. There are 3 green duffle bags on the ground.
+492. There are 4 green duffle bags on the ground.
+493. There are 5 green duffle bags on the ground.
+494. There is 1 green duffle bag on the ground.
+495. There is 1 car on the street.
+496. There are 2 cars on the street.
+497. There are 3 cars on the street.
+498. There are 0 cars on the street.
+499. There are 2 people.
+500. There are 6 people.
+501. There are 3 people.
+502. There is 1 person.
+503. There is 1 picture hanging on the wall.
+504. There are 2 pictures hanging on the wall.
+505. There are 5 pictures hanging on the wall.
+506. There are 4 pictures hanging on the wall.
+507. There are 2 refrigerators in the picture.
+508. There are 5 refrigerators in the picture.
+509. There are 8 refrigerators in the picture.
+510. There is 1 refrigerator in the picture.
+511. There are 7 boys.
+512. There are 8 boys.
+513. There are 9 boys.
+514. There are 4 boys.
+515. There are 3 surfers.
+516. There are 5 surfers.
+517. There are 7 surfers.
+518. There is 1 surfer.
+519. There are 4 knives on the table.
+520. There are 5 knives on the table.
+521. There is 1 knife on the table.
+522. There are 2 knives on the table.
+523. There are 4 women posing for the photo.
+524. There are 6 women posing for the photo.
+525. There is 1 woman posing for the photo.
+526. There are 2 women posing for the photo.
+527. There are 9 black cows.
+528. There are 8 black cows.
+529. There are 7 black cows.
+530. There are 3 black cows.
+531. There are 9 baseballs.
+532. There are 3 baseballs.
+533. There are 5 baseballs.
+534. There are 8 baseballs.
+535. There are 6 planes in this photo.
+536. There are 7 planes in this photo.
+537. There are 8 planes in this photo.
+538. There is 1 plane in this photo.
+539. There are 6 wheels visible on the plane.
+540. There are 5 wheels visible on the plane.
+541. There are 4 wheels visible on the plane.
+542. There are 3 wheels visible on the plane.
+543. There are 2 actively playing tennis players visible.
+544. There are 3 actively playing tennis players visible.
+545. There are 4 actively playing tennis players visible.
+546. There is 1 actively playing tennis player visible.
+547. There are 4 flower pots.
+548. There are 9 flower pots.
+549. There are 2 flower pots.
+550. There are 3 flower pots.
+551. There is 1 bear.
+552. There are 4 bears.
+553. There are 9 bears.
+554. There are 2 bears.
+555. There are 3 trains in this picture.
+556. There are 4 trains in this picture.
+557. There are 5 trains in this picture.
+558. There is 1 train in this picture.
+559. There are 2 horses in the photo.
+560. There are 5 horses in the photo.
+561. There are 6 horses in the photo.
+562. There is 1 horse in the photo.
+563. There are 3 motorcycles.
+564. There are 4 motorcycles.
+565. There are 5 motorcycles.
+566. There is 1 motorcycle.
+567. There are 2 people in the shot.
+568. There are 3 people in the shot.
+569. There are 4 people in the shot.
+570. There are 0 people in the shot.
+571. There are 10 squares on the window.
+572. There are 11 squares on the window.
+573. There are 12 squares on the window.
+574. There are 9 squares on the window.
+575. There are 8 men.
+576. There are 9 men.
+577. There are 2 men.
+578. There are 7 men.
+579. There are 2 cones.
+580. There are 3 cones.
+581. There are 4 cones.
+582. There is 1 cone.
+583. There are 2 cars pictured.
+584. There are 3 cars pictured.
+585. There are 4 cars pictured.
+586. There is 1 car pictured.
+587. There are 6 big bolts seen on the hydrant.
+588. There are 5 big bolts seen on the hydrant.
+589. There are 7 big bolts seen on the hydrant.
+590. There are 3 big bolts seen on the hydrant.
+591. There are 3 signs.
+592. There are 4 signs.
+593. There are 8 signs.
+594. There are 2 signs.
+595. There are 7 pans.
+596. There are 9 pans.
+597. There are 6 pans.
+598. There is 1 pan.
+599. There is 1 picture hanging above the TV.
+600. There are 0 pictures hanging above the TV.
+601. There are 4 pictures hanging above the TV.
+602. There are 3 pictures hanging above the TV.
+603. There are 4 shoes in this picture.
+604. There are 6 shoes in this picture.
+605. There are 8 shoes in this picture.
+606. There are 2 shoes in this picture.
+607. There is 1 horse.
+608. There are 3 horses.
+609. There are 5 horses.
+610. There are 2 horses.
+611. There are 2 people wearing a yellow dress.
+612. There are 3 people wearing a yellow dress.
+613. There are 6 people wearing a yellow dress.
+614. There is 1 person wearing a yellow dress.
+615. There are no planes.
+616. There are 2 planes.
+617. There are 3 planes.
+618. There is 1 plane.
+619. There are 2 lamps on.
+620. There are 3 lamps on.
+621. There are 4 lamps on.
+622. There is 1 lamp on.
+623. There are 5 images.
+624. There are 6 images.
+625. There are 8 images.
+626. There are 2 images.
+627. There are 2 people pictured.
+628. There are 3 people pictured.
+629. There are 4 people pictured.
+630. There is 1 person pictured.
+631. There are 2 people in the photo.
+632. There are 3 people in the photo.
+633. There are 6 people in the photo.
+634. There is 1 person in the photo.
+635. There is 1 hand.
+636. There are 6 hands.
+637. There are 8 hands.
+638. There are 2 hands.
+639. There are 5 Roman numerals.
+640. There are 11 Roman numerals.
+641. There are 13 Roman numerals.
+642. There are 12 Roman numerals.
+643. There are 8 zebras.
+644. There are 7 zebras.
+645. There are 2 zebras.
+646. There are 3 zebras.
+647. There are 2 license plates visible in the picture.
+648. There are no license plates visible in the picture.
+649. There are 3 license plates visible in the picture.
+650. There is 1 license plate visible in the picture.
+651. There are no white trucks.
+652. There are 2 white trucks.
+653. There are 3 white trucks.
+654. There is 1 white truck.
+655. There are 2 trucks in the picture.
+656. There are 4 trucks in the picture.
+657. There are 5 trucks in the picture.
+658. There are 3 trucks in the picture.
+659. There are 3 people.
+660. There are 4 people.
+661. There are 5 people.
+662. There are 2 people.
+663. There are 4 fruits.
+664. There are 6 fruits.
+665. There are 7 fruits.
+666. There are 2 fruits.
+667. There are 2 pizzas.
+668. There are 3 pizzas.
+669. There are 5 pizzas.
+670. There is 1 pizza.
+671. There is 1 animal.
+672. There are 2 animals.
+673. There are 3 animals.
+674. There are no animals.
+675. There are 7 bundles of fruit hanging.
+676. There are 6 bundles of fruit hanging.
+677. There are 9 bundles of fruit hanging.
+678. There are 8 bundles of fruit hanging.
+679. There is 1 train shown.
+680. There are 3 trains shown.
+681. There are 4 trains shown.
+682. There are 2 trains shown.
+683. There are 2 players on the field.
+684. There are 3 players on the field.
+685. There are 4 players on the field.
+686. There are 6 players on the field.
+687. There is 1 lamp in the room.
+688. There are 2 lamps in the room.
+689. There are 6 lamps in the room.
+690. There are 3 lamps in the room.
+691. There is 1 red light illuminated on the back of the train.
+692. There are 3 red lights illuminated on the back of the train.
+693. There are 4 red lights illuminated on the back of the train.
+694. There are 2 red lights illuminated on the back of the train.
+695. There is 1 train track in the picture.
+696. There are 3 train tracks in the picture.
+697. There are 4 train tracks in the picture.
+698. There are 2 train tracks in the picture.
+699. There are 3 players in the photo.
+700. There is 1 player in the photo.
+701. There are no players in the photo.
+702. There are 2 players in the photo.
+703. There are 3 giraffes.
+704. There are 2 giraffes.
+705. There are 4 giraffes.
+706. There is 1 giraffe.
+707. There are 2 people pictured.
+708. There are 3 people pictured.
+709. There are 4 people pictured.
+710. There is 1 person pictured.
+711. There are 3 cars in the photo.
+712. There are 2 cars in the photo.
+713. There is 1 car in the photo.
+714. There are 4 cars in the photo.
+715. There are 2 magnets on the bottom of the fridge.
+716. There are 3 magnets on the bottom of the fridge.
+717. There are 4 magnets on the bottom of the fridge.
+718. There are 5 magnets on the bottom of the fridge.
+719. There are 2 dogs.
+720. There are 3 dogs.
+721. There are 4 dogs.
+722. There is 1 dog.
+723. There are 2 planes.
+724. There are 4 planes.
+725. There are 5 planes.
+726. There are 3 planes.
+727. There are 2 yellow trucks.
+728. There are 3 yellow trucks.
+729. There are 4 yellow trucks.
+730. There is 1 yellow truck.
+731. There are 2 people in this picture.
+732. There are 6 people in this picture.
+733. There is 1 person in this picture.
+734. There are 5 giraffes in the scene.
+735. There are 6 giraffes in the scene.
+736. There are 7 giraffes in the scene.
+737. There is 1 giraffe in the scene.
+738. There are 2 sinks.
+739. There are 3 sinks.
+740. There are 4 sinks.
+741. There is 1 sink.
+742. There are 2 sliced items.
+743. There are 3 sliced items.
+744. There are 4 sliced items.
+745. There is 1 sliced item.
+746. There is 1 fridge in the photo.
+747. There are 2 fridges in the photo.
+748. There are 5 fridges in the photo.
+749. There are 8 fridges in the photo.
+750. There are 2 cars to see.
+751. There are 3 cars to see.
+752. There are 6 cars to see.
+753. There is 1 car to see.
+754. There are 2 red leaves painted on the side of the plane.
+755. There are 3 red leaves painted on the side of the plane.
+756. There are 4 red leaves painted on the side of the plane.
+757. There is 1 red leaf painted on the side of the plane.
+758. There are 5 surfboards in the photo.
+759. There are 6 surfboards in the photo.
+760. There are 8 surfboards in the photo.
+761. There are 2 surfboards in the photo.
+762. There are 5 people in the picture.
+763. There are 6 people in the picture.
+764. There are 7 people in the picture.
+765. There are 2 people in the picture.
+766. There are 4 pizzas.
+767. There are 5 pizzas.
+768. There are 7 pizzas.
+769. There are 6 pizzas.
+770. There are 8 birds in the picture.
+771. There are 4 birds in the picture.
+772. There are 9 birds in the picture.
+773. There are 5 birds in the picture.
+774. There are 2 animals in this picture.
+775. There are 3 animals in this picture.
+776. There are 4 animals in this picture.
+777. There is 1 animal in this picture.
+778. There are 4 red lines on the toothbrush.
+779. There are 8 red lines on the toothbrush
+780. There are 2 red lines on the toothbrush.
+781. There are 3 red lines on the toothbrush.
+782. There are 3 red lines on the toothbrush.
+783. There are 14 birds.
+784. There are 12 birds.
+785. There are 15 birds.
+786. There are 16 birds.
+787. There are 2 clocks on the tower.
+788. There are 3 clocks on the tower.
+789. There are 4 clocks on the tower.
+790. There is 1 clock on the tower.
+791. There is 1 dog in the tower.
+792. There are 2 dogs in the tower.
+793. There are 3 dogs in the tower.
+794. There are no dogs in the tower.
+795. There are 2 pots in the picture.
+796. There are 3 pots in the picture.
+797. There are 5 pots in the picture.
+798. There is 1 pot in the picture.
+799. There are 3 people.
+800. There are 8 people.
+801. There are 9 people.
+802. There is 1 person.
+803. There are 5 people that can be seen.
+804. There are 4 people that can be seen.
+805. There are 6 people that can be seen.
+806. There are 8 people that can be seen.
+807. There is 1 animal.
+808. There are 6 animals.
+809. There are 5 animals.
+810. There are 2 giraffes.
+811. There are 6 giraffes.
+812. There are 7 giraffes.
+813. There are 5 giraffes.
+814. There are 4 signfronts pointing to the left.
+815. There are 5 signfronts pointing to the left.
+816. There are 6 signfronts pointing to the left.
+817. There are 3 signfronts pointing to the left.
+818. There are 3 streetlights.
+819. There are 4 streetlights.
+820. There are 5 streetlights.
+821. There are 2 streetlights.
+822. There are 3 stove burners.
+823. There are 4 stove burners.
+824. There are 5 stove burners.
+825. There are 2 stove burners.
+826. There are 3 red lights on the front.
+827. There are 4 red lights on the front.
+828. There are 5 red lights on the front.
+829. There are 2 red lights on the front.
+830. There are 2 windows.
+831. There are 4 windows.
+832. There are 5 windows.
+833. There are 3 windows.
+834. There are 2 cats in the picture.
+835. There are 3 cats in the picture.
+836. There are 4 cats in the picture.
+837. There is 1 cat in the picture.
+838. There is 1 bench.
+839. There are 5 benches.
+840. There are 9 benches.
+841. There are 2 benches.
+842. There are 4 men on the tennis field.
+843. There is 1 man on the tennis field.
+844. There are 3 men on the tennis field.
+845. There are 2 men on the tennis field.
+846. There is 1 light on the side of the bed.
+847. There are 3 lights on the sides of the bed.
+848. There are 4 lights on the sides of the bed.
+849. There are 2 lights on the sides of the bed.
+850. There are 2 red pillows.
+851. There are 3 red pillows.
+852. There are 4 red pillows.
+853. There is 1 red pillow.
+854. There are 4 shelves shown.
+855. There are 3 shelves shown.
+856. There are 5 shelves shown.
+857. There are 8 shelves shown.
+858. There are 2 people in the shot.
+859. There are 3 people in the shot.
+860. There are 4 people in the shot.
+861. There are no people in the shot.
+862. There is 1 carrot.
+863. There are 2 carrots.
+864. There are 3 carrots.
+865. There are 11 carrots.
+866. There are 2 buses.
+867. There are 3 buses.
+868. There are 4 buses.
+869. There is 1 bus.
+870. There is 1 person.
+871. There are 2 people.
+872. There are 3 people.
+873. There are no people.
+874. There is 1 horse.
+875. There are 3 horses.
+876. There are no horses.
+877. There are 2 horses.
+878. There are 16 ounces.
+879. There are 8 ounces.
+880. There is 1 milkshake.
+881. There are 2 milkshakes.
+882. There are 4 milkshakes.
+883. There are 3 milkshakes.
+884. There are 4 trucks visible.
+885. There are 3 trucks visible.
+886. There are 2 trucks visible.
+887. There is 1 truck visible.
+888. There is 1 wheel on the ground.
+889. There are 3 wheels on the ground.
+890. There are 4 wheels on the ground.
+891. There are 2 wheels on the ground.
+892. There are 3 Ford logos that can be seen.
+893. There are 2 Ford logos that can be seen.
+894. There is 1 Ford logo that can be seen.
+895. There are 4 Ford logos that can be seen.
+896. There are 3 people in the photo.
+897. There are 2 people in the photo.
+898. There is 1 person in the photo.
+899. There are 4 people in the photo.
+900. There is 1 ring on the individual's hand.
+901. There are no rings on the individual's hand.
+902. There are 3 rings on the individual's hand.
+903. There are 2 rings on the individual's hand.
+904. There are 5 women in the photo.
+905. There are 6 women in the photo.
+906. There are 4 women in the photo.
+907. There are 7 women in the photo.
+908. There is 1 woman wearing a black tie.
+909. There are 2 women wearing a black tie.
+910. There are 4 women wearing a black tie.
+911. There are 3 women wearing a black tie.
+912. There are 5 people in the picture.
+913. There are 2 people in the picture.
+914. There is 1 person in the picture.
+915. There are no people in the picture.
+916. There is 1 person in the picture.
+917. There are 2 people in the picture.
+918. There are 5 people in the picture.
+919. There are 3 people in the picture.
+920. There is 1 streetlight in the picture.
+921. There are 3 streetlights in the picture.
+922. There are 4 streetlights in the picture.
+923. There are 2 streetlights in the picture.
+924. There are 3 people.
+925. There are 2 people.
+926. There is 1 person.
+927. There are 5 people.
+928. There are 5 people in the picture.
+929. There are 4 people in the picture.
+930. There are no people in the picture.
+931. There are 2 people in the picture.
+932. There is 1 leg of the zebra that you see.
+933. There are 3 legs of the zebra that you see.
+934. There are 4 legs of the zebra that you see.
+935. There are 2 legs of the zebra that you see.
+936. There are 5 boats.
+937. There are 3 boats.
+938. There are 2 boats.
+939. There are 6 boats.
+940. There are 4 people that you see.
+941. There are 5 people that you see.
+942. There are 6 people that you see.
+943. There are 3 people that you see.
+944. There are 4 sandwiches.
+945. There are 3 sandwiches.
+946. There are no sandwiches.
+947. There are 2 sandwiches.
+948. There are 4 elephants in the ring.
+949. There is 1 elephant in the ring.
+950. There are 3 elephants in the ring.
+951. There are 2 elephants in the ring.
+952. There is 1 zebra.
+953. There are 3 zebras.
+954. There are 4 zebras.
+955. There are 2 zebras.
+956. There are 2 trains on the track.
+957. There are 3 trains on the track.
+958. There are 4 trains on the track.
+959. There is 1 train on the track.
+960. There is 1 color painted on the train.
+961. There are 2 colors painted on the train.
+962. There are 3 colors painted on the train.
+963. There are 4 colors painted on the train.
+964. There is 1 train track.
+965. There are 2 train tracks.
+966. There are 3 train tracks.
+967. There are 4 train tracks.
+968. There are 2 clocks.
+969. There are 4 clocks.
+970. There are 6 clocks.
+971. There is 1 clock.
+972. There are 2 players in the photo.
+973. There are 4 players in the photo.
+974. There are 5 players in the photo.
+975. There are 3 players in the photo.
+976. There are 2 trucks that can be seen.
+977. There are 3 trucks that can be seen.
+978. There are 4 trucks that can be seen.
+979. There is 1 truck that can be seen.
+980. There are 2 horse faces that can be seen.
+981. There are 3 horse faces that can be seen.
+982. There are 4 horse faces that can be seen.
+983. There is 1 horse face that can be seen.
+984. There are 4 lamp posts.
+985. There is 1 lamp post.
+986. There are 3 lamp posts.
+987. There are 2 lamp posts.
+988. There are 2 toothbrushes.
+989. There are 3 toothbrushes.
+990. There are 4 toothbrushes.
+991. There is 1 toothbrush.
+992. There is 1 animal.
+993. There are 3 animals.
+994. There are 4 animals.
+995. There are 2 animals.
+996. There are no visible plates.
+997. There are 2 plates visible.
+998. There are 3 plates visible.
+999. There is 1 plate visible.
+1000. There are 2 buses shown.

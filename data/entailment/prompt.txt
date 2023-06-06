@@ -1,0 +1,8 @@
+For each sentence in the input, replace the object with one of the parts of the object.
+
+Every sentence in your output must begin with either "There is" or "There are".
+You must adjust the number in the sentence to reflect the number of parts.
+Each number must be preceded by "not more than".
+
+Input:
+
